@@ -1,0 +1,5 @@
+./corpus/
+./sessions/
+./cursor/
+**/__pycache__/
+./TP_RAG.pdf
